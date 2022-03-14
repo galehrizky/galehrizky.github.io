@@ -27,12 +27,12 @@ pip3 install django
 ```
 
 ### menggunakan django admin
-Jika kalian melakukan semua step di atas, sekarang kita akan mencoba menggunakan django-admin, yaitu fitur bawaan dari django itu sendiri
+Sekarang kita akan mencoba menggunakan django-admin, yaitu fitur bawaan dari django itu sendiri.
 
 ```bash
 django-admin startproject mysite
 ```
-jika kita menggunakan command di atas, maka akan secara otomatis meng-generate beberapa files seperti di bawah ini 
+maka akan secara otomatis meng-generate beberapa files seperti di bawah ini 
 ```
 ├── manage.py
 └── mysite
@@ -42,7 +42,7 @@ jika kita menggunakan command di atas, maka akan secara otomatis meng-generate b
     ├── urls.py
     └── wsgi.py
 ```
-setiap file yang di genearte di atas memiliki fungsi nya masing-masing, mungkin di catatan berikut nya saya akan tambahkan fungsi dari setiap file di atas, kita coba lanjut ke step berikut nya, jika kalian berhasil meng-generate semua file di atas kita coba running project django kita dengan command di bawah
+setiap file yang di generate di atas memiliki fungsi nya masing-masing, mungkin di catatan berikut nya saya akan tambahkan fungsi dari setiap file di atas, kita coba lanjut ke step berikut nya, jika kalian berhasil meng-generate semua file di atas kita coba running project django kita dengan command di bawah
 
 ```
 python3 manage.py runserver
