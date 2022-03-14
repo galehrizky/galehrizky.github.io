@@ -1,6 +1,7 @@
 ---
 title: Tulisan Pertama
 tags: pertama
+comments: false
 ---
 
 Hallo sebelum lebih jauh, saya ingin membuat sebuah tulisan pertama atau mungkin lebih enak bisa kita sebut, sebagai perkenalan buat kalian yang mengunjungi situs ini, situs ini di buat menggunakan jekkyl untuk detail lebih lanjut tentang jekkyl kalian bisa mengunjungi situs ini  ***[[Apa itu jekkyl::https://jekyllrb.com/]]***, selain menggunakan jekkyl, situs ini juga menggunakan template yang di buat oleh © Raghuveer S.
