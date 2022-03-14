@@ -10,7 +10,7 @@ content-type: eg
 
 - Ketika memiliki waktu luang terkadang saya belajar hal baru seperti Golang dan web3 untuk Cryptocurrency development .
 
-- Sebagai Junior cyber security terkadang  saya melakukan penetration testing terhadap perusahaan dalam negeri, yang mana jika saya mendapatkan sebuah *bug* ataupun *kesalahan* dalam system mereka, saya akan mendapatkan berupa bounty entah itu dalam bentuk uang,merchandise ataupun certificate apresiasi.
+- Sebagai Junior cyber security terkadang  saya melakukan penetration testing terhadap perusahaan dalam negeri, yang mana jika saya mendapatkan sebuah *bug* ataupun *kesalahan* di system mereka, saya akan mendapatkan berupa bounty entah itu dalam bentuk uang,merchandise ataupun certificate apresiasi.
   
 - Jika anda ingin lebih tahu tentang saya, silahkan hubungi saya dengan kontak di bawah 👇
 
@@ -19,12 +19,12 @@ content-type: eg
 
 - Kamu bisa dm saya di twitter ***[[@galehrizky13::https://twitter.com/galehrizky13]]***. 
   
-- Dan kamu bisa juga menghubungi saya via email ***[[galehrizky@codellate.org::mailto:galehrizky@codellate.org]]***
+- Atau kamu bisa juga menghubungi saya via email ***[[galehrizky@codellate.org::mailto:galehrizky@codellate.org]]***
 
 
 ## About the website
 
 ### Features:
  Situs ini di buat untuk menyimpan semua catatan pemilik website, entah itu problem solving ataupun tutorial sederhana,
- jika kamu tidak setuju dengan isi konten yang di situs ini, bisa menghubungi saya di kontak di atas 👆. 
+ jika kamu tidak setuju dengan isi konten yang di situs ini, bisa menghubungi saya melalui kontak di atas 👆. 
 
