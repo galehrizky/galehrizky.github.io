@@ -47,6 +47,6 @@ setiap file yang di generate di atas memiliki fungsi nya masing-masing, mungkin 
 ```
 python3 manage.py runserver
 ```
-setelah running command di atas, secara default port yang di gunakan oleh django adalah port 8000, dan kalian bisa coba akses di url *http://localhost:8000/*, maka akan tampil seperti gambar di bawah ini.
+secara default port yang di gunakan oleh django adalah port 8000, dan kalian bisa coba akses di url *http://localhost:8000/*, maka akan tampil seperti gambar di bawah ini.
 
 <img src="/assets/img/post/django.png">
