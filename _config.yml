@@ -45,7 +45,7 @@ tagline: # subheading won't work without a tagline,
          # the subheading to support the main heading
          # which in this case is 'Knowledge Continuum'
   enabled: true
-  name: Life to short too be slow
+  name: Life too short to be slow
 copyright: 
   year: 2022
   msg: Raghuveer S # This is a mandatory attribute for copyright to be displayed
