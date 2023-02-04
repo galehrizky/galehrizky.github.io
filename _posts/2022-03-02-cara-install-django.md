@@ -1,6 +1,6 @@
 ---
 title: Cara install Django
-tags: django,python
+tags: django python
 comments: false
 ---
 
