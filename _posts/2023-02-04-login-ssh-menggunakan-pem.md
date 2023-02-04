@@ -1,5 +1,5 @@
 ---
-title: Cara Login ssh menggunakan PEM Amazon
+title: Login ssh menggunakan PEM Amazon
 tags: ubuntu sysadmin amazon scp login
 comments: false
 ---

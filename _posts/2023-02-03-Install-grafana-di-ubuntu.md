@@ -1,5 +1,5 @@
 ---
-title: Cara install Grafana di ubuntu
+title:  Install Grafana di ubuntu
 tags: ubuntu root sysadmin grafana monitoring
 comments: false
 ---
