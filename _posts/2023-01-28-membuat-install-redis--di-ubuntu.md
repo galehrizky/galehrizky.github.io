@@ -1,5 +1,5 @@
 ---
-title: Cara install redis di Ubuntu
+title: install redis di Ubuntu
 tags: ubuntu redis
 comments: false
 ---

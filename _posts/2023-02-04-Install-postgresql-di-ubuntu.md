@@ -1,5 +1,5 @@
 ---
-title: Cara install postgresql di ubuntu
+title:  Install postgresql di ubuntu
 tags: ubuntu sysadmin amazon databse postgresql
 comments: false
 ---

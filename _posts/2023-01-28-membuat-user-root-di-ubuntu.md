@@ -1,5 +1,5 @@
 ---
-title: Cara membuat user root di ubuntu
+title:  Membuat user root di ubuntu
 tags: ubuntu root
 comments: false
 ---

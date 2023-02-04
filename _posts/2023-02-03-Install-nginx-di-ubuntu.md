@@ -1,5 +1,5 @@
 ---
-title: Cara install nginx di ubuntu
+title: install nginx di ubuntu
 tags: ubuntu root nginx webserver sysadmin
 comments: false
 ---

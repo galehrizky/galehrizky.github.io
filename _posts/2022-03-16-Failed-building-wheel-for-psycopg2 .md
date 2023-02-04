@@ -1,6 +1,6 @@
 ---
 title: Failed building wheel for psycopg2 (Ubuntu 20.04 + Python 3.8.5 + venv)
-tags: python
+tags: python solving problem
 comments: false
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Cara mengurangi TIME WAIT di ubuntu.
+title:  Mengurangi TIME WAIT di ubuntu.
 tags: ubuntu root nginx webserver sysadmin tunning
 comments: false
 ---

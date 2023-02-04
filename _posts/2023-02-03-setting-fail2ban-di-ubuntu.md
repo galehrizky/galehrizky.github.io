@@ -1,5 +1,5 @@
 ---
-title: Cara setting Fail2ban di ubuntu
+title:  Setting Fail2ban di ubuntu
 tags: ubuntu root fail2ban ddos
 comments: false
 ---

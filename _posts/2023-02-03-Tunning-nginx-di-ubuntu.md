@@ -1,5 +1,5 @@
 ---
-title: Cara tunning nginx di ubuntu
+title:  Tunning nginx di ubuntu
 tags: ubuntu root nginx webserver sysadmin tunning
 comments: false
 ---

@@ -1,5 +1,5 @@
 ---
-title: Cara menggunakan SCP untuk transfer File
+title:  Menggunakan SCP untuk transfer File
 tags: ubuntu sysadmin  scp transfer
 comments: false
 ---

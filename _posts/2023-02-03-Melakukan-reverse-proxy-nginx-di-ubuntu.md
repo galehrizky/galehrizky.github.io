@@ -1,5 +1,5 @@
 ---
-title: Cara Melakukan reverse proxy nginx di ubuntu
+title: Melakukan reverse proxy nginx di ubuntu
 tags: ubuntu root nginx webserver sysadmin tunning proxy
 comments: false
 ---
